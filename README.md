@@ -1,4 +1,4 @@
-````markdown
+
 # Wrench-Based Dynamical Optimization Framework
 
 **A Solid-Inspired Alternative to Gradient Descent in Linear Regression**  
